@@ -1,0 +1,1 @@
+print("AI CV Match Analyzer is starting...")
